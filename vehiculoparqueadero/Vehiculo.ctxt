@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Vehiculo
+comment1.params=tipo\ ruedas\ velocidadMaxima
+comment1.target=Vehiculo(java.lang.String,\ int,\ int)
+comment2.params=
+comment2.target=java.lang.String\ describir()
+numComments=3

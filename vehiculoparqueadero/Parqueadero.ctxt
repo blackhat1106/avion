@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Parqueadero
+comment1.params=tarifaMoto\ tarifaCarro\ tarifaCamion\ tarifaBicicleta
+comment1.target=Parqueadero(double,\ double,\ double,\ double)
+comment2.params=vehiculo
+comment2.target=void\ registrarVehiculo(Vehiculo)
+comment3.params=vehiculo
+comment3.target=double\ calcularTarifa(Vehiculo)
+comment4.params=
+comment4.target=void\ mostrarVehiculos()
+numComments=5
